@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # microbit-v2-samples
 
 [![Native Build Status](https://github.com/lancaster-university/microbit-v2-samples/actions/workflows/build.yml/badge.svg)](https://github.com/lancaster-university/microbit-v2-samples/actions/workflows/build.yml) [![Docker Build Status](https://github.com/lancaster-university/microbit-v2-samples/actions/workflows/docker-image.yml/badge.svg)](https://github.com/lancaster-university/microbit-v2-samples/actions/workflows/docker-image.yml)
@@ -73,3 +74,7 @@ This repository is designed to follow the principles and APIs developed for the 
 
 # Documentation
 API documentation is embedded in the code using doxygen. We will produce integrated web-based documentation soon.
+=======
+# microbic-fun
+Exploring the possibilities of the micro-bit
+>>>>>>> c65c711743a2b2d31f8454947c7eb21f3d0554fa
